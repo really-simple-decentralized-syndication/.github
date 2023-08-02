@@ -1,12 +1,9 @@
-## Hi there 👋
+## What is DID?
 
-<!--
+Did is the backbone of decentralized social internet
 
-**Here are some ideas to get you started:**
+## How does it work?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. People write social posts, that are HTML documents hosted on their domains
+2. Links to these posts are signed using private keys and submitted to DID network
+3. Reader platforms pick up submitted links, crawl them and display in a user friendly manner
