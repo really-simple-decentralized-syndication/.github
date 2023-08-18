@@ -1,6 +1,6 @@
 # Decentralized Information Distributor (DID)
 
-DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands.
+DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts.
 
 ## Table of Contents
 
