@@ -1,7 +1,3 @@
-Alright, based on the detailed description you provided, here's a draft README.md for your DID project:
-
----
-
 # Decentralized Information Distributor (DID)
 
 DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands.
