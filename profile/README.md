@@ -1,9 +1,68 @@
-## What is DID?
+Alright, based on the detailed description you provided, here's a draft README.md for your DID project:
 
-Did is the backbone of decentralized social internet
+---
 
-## How does it work?
+# Decentralized Information Distributor (DID)
 
-1. People write social posts, that are HTML documents hosted on their domains
-2. Links to these posts are signed using private keys and submitted to DID network
-3. Reader platforms pick up submitted links, crawl them and display in a user friendly manner
+DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands.
+
+## Table of Contents
+
+- [Architecture](#architecture)
+- [Repositories](#repositories)
+  - [demo-writer](#demo-writer)
+  - [instance-nodejs](#instance-nodejs)
+  - [demo-reader](#demo-reader)
+- [How it Works](#how-it-works)
+- [Motivation](#motivation)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Architecture
+
+DID consists of three integral repositories:
+
+1. **demo-writer:** A user-friendly onboarding tutorial to generate keys and social posts.
+2. **instance-nodejs:** The heart of the DID network. It validates, stores, and distributes the post information.
+3. **demo-reader:** A platform that displays the information from the DID network in a user-friendly format.
+
+## Repositories
+
+### demo-writer
+
+This tutorial helps new users get started with DID:
+
+- Generate private/public key pairs using the secp256k1 algorithm.
+- Craft DID-compliant HTML documents for social posts.
+- Guide on uploading the public key and post to their personal domain.
+- Submit the post URL to the DID instance for publishing.
+
+### instance-nodejs
+
+The core of the DID p2p network:
+
+- Receives URL submissions and validates them.
+- DOES NOT save post content, only URLs, signatures, domains, and content hashes.
+- Distributes validated information to other peers on the network.
+
+### demo-reader
+
+A platform to consume DID content:
+
+- Crawls URLs from DID instance databases.
+- Stores post data locally.
+- Displays data in a Twitter-like interface, showing domains and "retweet" equivalents.
+
+## How it Works
+
+1. **Key Generation:** User creates a private/public key pair (secp256k1).
+2. **Key Hosting:** User hosts the private key on their domain (e.g., `userdomain.com/did.pem`).
+3. **Content Creation:** User crafts a DID-compliant HTML page with their post and hosts it on their domain.
+4. **Submission:** User signs the hash of their content and URL and sends this to a DID instance.
+5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
+6. **Propagation:** The URL's information is broadcasted on the p2p network for other instances to validate and store.
+
+## Motivation
+
+- **Decentralization:** A social network should operate on decentralized and public infrastructure.
+- **Monetization & Moderation:** While reader platforms can be monetized, they're also tasked with moderating content.
