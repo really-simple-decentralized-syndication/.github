@@ -2,6 +2,8 @@
 
 DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts.
 
+Do you want to quickly try DID yourself? [Try publishing your first social post](https://writer.did-1.com/)
+
 ## Table of Contents
 
 - [Architecture](#architecture)
@@ -57,8 +59,3 @@ A platform to consume DID content:
 4. **Submission:** User signs the hash of their content and URL and sends this to a DID instance.
 5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
 6. **Propagation:** The URL's information is broadcasted on the p2p network for other instances to validate and store.
-
-## Motivation
-
-- **Decentralization:** A social network should operate on decentralized and public infrastructure.
-- **Monetization & Moderation:** While reader platforms can be monetized, they're also tasked with moderating content.
