@@ -2,7 +2,7 @@
 
 DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts.
 
-Do you want to quickly try DID yourself? [Try publishing your first social post](https://writer.did-1.com/)
+⭐ Don't like to read? Feel the power of DID [by publishing your first social post](https://writer.did-1.com/)
 
 ## Table of Contents
 
