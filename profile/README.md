@@ -65,3 +65,11 @@ A platform to consume DID content:
 4. **Submission:** User signs the hash of their content and URL and sends this to a DID instance.
 5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
 6. **Propagation:** The URL's information is broadcasted on the p2p network for other instances to validate and store.
+
+7. ### Roadmap
+
+Main features that lie ahead
+
+1. Data synchronization algorithms for instance
+2. Allow image/link attachments for submissions
+3. Implement advanced reader features: comments, follow lists, popular posts listing etc
