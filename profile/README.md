@@ -60,8 +60,8 @@ A platform to consume DID content:
 
 ### Roadmap
 
-Main features that lie ahead
+Main planned feature
 
-1. Data synchronization algorithms for instance
+1. Data synchronization algorithms for DID instances
 2. Allow image/link attachments for submissions
 3. Implement advanced reader features: comments, follow lists, popular posts listing etc
