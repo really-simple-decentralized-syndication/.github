@@ -6,19 +6,7 @@ DID is a novel decentralized social media infrastructure that empowers users to 
 
 🛠️ This is Proof Of Concept technology and many features are still missing!
 
-📧 I am looking for active contributors - if you want to actively join this project please email did@tautvilas.lt with the reason why you want to contribute
-
-## Table of Contents
-
-- [Architecture](#architecture)
-- [Repositories](#repositories)
-  - [demo-writer](#demo-writer)
-  - [instance-nodejs](#instance-nodejs)
-  - [demo-reader](#demo-reader)
-- [How it Works](#how-it-works)
-- [Motivation](#motivation)
-- [Contribute](#contribute)
-- [License](#license)
+📧 I am looking for active contributors - if you want to join this project please email did@tautvilas.lt with the reason why you want to contribute
 
 ## Architecture
 
