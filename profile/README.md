@@ -66,7 +66,7 @@ A platform to consume DID content:
 5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
 6. **Propagation:** The URL's information is broadcasted on the p2p network for other instances to validate and store.
 
-7. ### Roadmap
+### Roadmap
 
 Main features that lie ahead
 
