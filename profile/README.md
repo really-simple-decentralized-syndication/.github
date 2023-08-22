@@ -48,7 +48,7 @@ A platform to consume DID content:
 ## How it Works
 
 1. **Key Generation:** User creates a private/public key pair (secp256k1).
-2. **Key Hosting:** User hosts the private key on their domain (e.g., `userdomain.com/did.pem`).
+2. **Key Hosting:** User hosts the public key on their domain (e.g., `userdomain.com/did.pem`).
 3. **Content Creation:** User crafts a DID-compliant HTML page with their post and hosts it on their domain.
 4. **Submission:** User signs the hash of their content and URL and sends this to a DID instance.
 5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
