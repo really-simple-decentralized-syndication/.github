@@ -37,6 +37,8 @@ This tutorial helps new users get started with DID:
 
 ### instance-nodejs
 
+[Go to repository](https://github.com/did-1/did-instance-nodejs)
+
 The core of the DID p2p network:
 
 - Receives URL submissions and validates them.
