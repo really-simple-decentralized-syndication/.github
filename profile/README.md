@@ -4,6 +4,10 @@ DID is a novel decentralized social media infrastructure that empowers users to 
 
 ⭐ Don't like to read? Feel the power of DID [by publishing your first social post](https://writer.did-1.com/)
 
+🛠️ This is Proof Of Concept technology and many features are still missing!
+
+📧 I am looking for active contributors - if you want to actively join this project please email did@tautvilas.lt with the reason why you want to contribute
+
 ## Table of Contents
 
 - [Architecture](#architecture)
