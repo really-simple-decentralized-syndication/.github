@@ -41,6 +41,8 @@ The core of the DID p2p network:
 
 ### demo-reader
 
+[Read the latest posts](https://reader.did-1.com/)
+
 A platform to consume DID content:
 
 - Crawls URLs from DID instance databases.
