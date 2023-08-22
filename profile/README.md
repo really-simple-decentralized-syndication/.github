@@ -60,7 +60,7 @@ A platform to consume DID content:
 
 ### Roadmap
 
-Main planned feature
+Main planned features
 
 1. Data synchronization algorithms for DID instances
 2. Allow image/link attachments for submissions
