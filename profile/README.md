@@ -20,6 +20,8 @@ DID consists of three integral repositories:
 
 ### demo-writer
 
+[Try the DID writer here](https://writer.did-1.com/)
+
 This tutorial helps new users get started with DID:
 
 - Generate private/public key pairs using the secp256k1 algorithm.
