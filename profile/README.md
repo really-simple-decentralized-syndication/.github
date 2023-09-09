@@ -10,6 +10,8 @@ DID is a novel decentralized social media infrastructure that empowers users to 
 
 📧 I am looking for active contributors - if you want to join this project please email did@tautvilas.lt
 
+🧠 Read more about philoshophy of DID [in this blog post](https://tautvilas.medium.com/it-is-time-to-create-a-decentralized-public-social-network-128b6c11fd24)
+
 ## Architecture
 
 DID consists of three integral repositories:
