@@ -2,11 +2,15 @@
 
 DID is a novel decentralized social media infrastructure that empowers users to own and distribute their content. Think of it like a decentralized Twitter where the data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts. It could be also be compared to decentralized global RSS feed.
 
-<em>DID is decentralized, but not federated. Each user (domain) is responsible for hosting his social posts and each DID instance contains all the history of urls ever submitted to the platform.</em>
+<em>
+  DID is decentralized, but not federated. Each user (domain) is responsible for
+  hosting his social posts and each DID instance contains all the history of
+  urls ever submitted to the platform.
+</em>
 
 ⭐ Don't like to read? Try the DEMO of DID [by publishing your first social post](https://writer.did-1.com/)
 
-📧 We are looking for active contributors - if you want to join this project please email did@tautvilas.lt
+📧 We are looking for active contributors - if you want to join this project please email [did@tautvilas.lt](mailto:did@tautvilas.lt)
 
 🧠 Read more about philosophy of DID [in this blog post](https://tautvilas.medium.com/it-is-time-to-create-a-decentralized-public-social-network-128b6c11fd24)
 
