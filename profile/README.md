@@ -16,7 +16,7 @@ RSDS consists of three integral repositories:
 
 1. **demo-writer:** A user-friendly onboarding tutorial to generate keys and social posts.
 2. **instance-nodejs:** The heart of the RSDS protocol. It validates, stores, and distributes the post information.
-3. **demo-reader:** A platform that displays the information from the DID network in a user-friendly format.
+3. **demo-reader:** A platform that displays the information from the RSDS network in a user-friendly format.
 
 ## Repositories
 
@@ -55,9 +55,9 @@ A platform to consume RSDS content:
 
 1. **Key Generation:** User creates a private/public key pair (secp256k1).
 2. **Key Hosting:** User hosts the public key on their domain (e.g., `userdomain.com/did.pem`).
-3. **Content Creation:** User crafts a DID-compliant HTML page with their post and hosts it on their domain.
+3. **Content Creation:** User crafts a RSDS-compliant HTML page with their post and hosts it on their domain.
 4. **Submission:** User signs the hash of their content and URL and sends this to a RSDS instance.
-5. **Validation:** DID instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
+5. **Validation:** RSDS instance verifies the post's signature, content, and other aspects, then saves the URL and signature.
 6. **Propagation:** The URL's information is broadcasted on the p2p network for other instances to validate and store.
 
 ### Roadmap
