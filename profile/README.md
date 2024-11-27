@@ -1,6 +1,6 @@
 # Really Simple Decentralized Syndication (RSDS)
 
-RSDS is a novel decentralized information sharing protocol that empowers users to own and distribute their content. Think of it like a decentralized Twitter where data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts. It could be also be compared to decentralized version of global RSS feed.
+RSDS is a novel decentralized information sharing protocol that empowers users to own, distribute and discover content. Think of it like a decentralized Twitter where data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts. It could be also be compared to decentralized version of global RSS feed.
 
 <em>RSDS is decentralized, but not federated. Each user (domain) is responsible for hosting his social posts and each RSDS instance contains all the history of urls ever submitted to the platform.</em>
 
