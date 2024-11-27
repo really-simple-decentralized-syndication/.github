@@ -37,7 +37,7 @@ This tutorial helps new users get started with RSDS:
 
 [Go to repository](https://github.com/did-1/did-instance-nodejs)
 
-The core of the RSDS p2p protocol:
+The core of the RSDS P2P protocol:
 
 - Receives URL submissions and validates them.
 - DOES NOT save post content, only URLs, signatures, domains, and content hashes.
