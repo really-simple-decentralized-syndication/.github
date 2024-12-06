@@ -42,6 +42,7 @@ The core of the RSDS P2P protocol:
 - Receives URL submissions and validates them.
 - DOES NOT save post content, only URLs, signatures, domains, and content hashes.
 - Distributes validated information to other peers on the network.
+- Validates post timestamps against Bitcoin blockchain
 
 ### demo-reader
 
