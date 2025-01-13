@@ -3,6 +3,9 @@
 > [!TIP]
 > Join discussion on [Hacker News](https://news.ycombinator.com/item?id=42654891)
 
+> [!IMPORTANT]
+> The project is looking for contributors. You can reach out via rsds@tautvilas.lt .
+
 RSDS is a novel decentralized information sharing protocol that empowers users to own, distribute and discover content. Think of it like a decentralized Twitter where data is entirely in the user's hands and where everyone is free to post content and subscribe to new posts. It could be also be compared to decentralized version of global RSS feed.
 
 <em>RSDS is decentralized, but not federated. Each user (domain) is responsible for hosting his social posts and each RSDS instance contains all the history of urls ever submitted to the platform.</em>
@@ -10,8 +13,6 @@ RSDS is a novel decentralized information sharing protocol that empowers users t
 <em>RSDS is optimized for speed, performance and scale. Only signed urls are saved in instances to keep them lightweight. Reader platforms do the heavy lifting of crawling and storing post data.</em>
 
 ⭐ Don't like to read? Try the DEMO of RSDS [by publishing your first social post](https://writer.did-1.com/)
-
-📧 We are looking for active contributors - if you want to join this project please email rsds@tautvilas.lt
 
 🧠 Read more about philosophy of RSDS [in this blog post](https://tautvilas.medium.com/it-is-time-to-create-a-decentralized-public-social-network-128b6c11fd24)
 
