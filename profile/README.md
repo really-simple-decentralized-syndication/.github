@@ -12,9 +12,11 @@ RSDS is a novel decentralized information sharing protocol that empowers users t
 
 <em>RSDS is optimized for speed, performance and scale. Only signed urls are saved in instances to keep them lightweight. Reader platforms do the heavy lifting of crawling and storing post data.</em>
 
-⭐ Don't like to read? Try the DEMO of RSDS [by publishing your first social post](https://writer.did-1.com/)
+> [!TIP]
+> ⭐ Don't like to read? Try the DEMO of RSDS [by publishing your first social post](https://writer.did-1.com/)
 
-🧠 Read more about philosophy of RSDS [in this blog post](https://tautvilas.medium.com/it-is-time-to-create-a-decentralized-public-social-network-128b6c11fd24)
+> [!TIP]
+> 🧠 Read more about philosophy of RSDS [in this blog post](http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/)
 
 ## Architecture
 
